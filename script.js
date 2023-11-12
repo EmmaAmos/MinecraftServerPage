@@ -23,3 +23,4 @@ document.addEventListener("DOMContentLoaded", function() {
     nextBtn.addEventListener('click', showNextImage);
     prevBtn.addEventListener('click', showPrevImage);
 });
+//end of scrolling
