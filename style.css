@@ -36,3 +36,7 @@ button {
     right: 10px;
 }
 /*end of scrolling*/
+
+#welcomeSign {
+    text-align: center;
+}
