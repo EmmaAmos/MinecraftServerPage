@@ -5,7 +5,28 @@ body{
 img{
     width: 50%;
     height: auto;
-    align-items: center;
+    padding-right: 2455px;
 }
 
 ul.slider { display: none; }
+
+.scrapBook {
+    background-color: blanchedalmond;
+    border: 24px;
+    border-color: rgb(59, 101, 17);
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+
+.Pictures{
+    background-color: aquamarine;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+    grid-template-rows: auto;
+}
+

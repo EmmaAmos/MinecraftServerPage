@@ -1,17 +1,6 @@
-/*
-function before(){
-    document.getElementById('myimage').
-        src="images/titleCard.jpg";
-}
-function next(){
-    document.getElementById('myArray')
-    scr=["images/titleCard.jgp", "images/bees.jpg", "images/AboveDisneySprings.png"]
-}
-*/
-
 $(document).ready(function(){
     var idx = 0;
-    var interval = 6000;
+    var interval = 6000; //time between scroll
     var images = $('ul.slider li img');
     setInterval(function(){
         idx++;
