@@ -9,6 +9,10 @@ img{
 
 }
 
+ul{
+    list-style-type: none;
+}
+
 ul.slider { display: none; }
 
 .scrapBook {
