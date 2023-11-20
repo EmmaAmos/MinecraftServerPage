@@ -8,6 +8,11 @@ nav ul {
     padding: 0;
 }
 
+nav ul li a img{
+    width: 10%;
+    height: 10%;
+}
+
 img{
     width: 50%;
     height: 50%;
